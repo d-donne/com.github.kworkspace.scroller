@@ -1,0 +1,18 @@
+{
+  "KPlugin": {
+    "Id": "com.github.kworkspace.scroller",
+    "Name": "KWorkspace Scroller",
+    "Description": "Scroll anywhere in kde panel to switch between workspaces",
+    "Icon": "virtual-desktops",
+    "Version": "1.0.0",
+    "License": "GPL-2.0-or-later",
+    "Category": "Windows and Tasks",
+    "Authors": [
+      {
+        "Name": "d-donne",
+        "Email": ""
+      }
+    ]
+  },
+  "KPackageStructure": "Plasma/Applet"
+}
